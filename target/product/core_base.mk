@@ -58,6 +58,8 @@ PRODUCT_PACKAGES += \
     mms-common \
     requestsync \
     screenrecord \
+    ScreenRecorder \
+    libscreenrecorder \
     telephony-common \
     voip-common \
     telephony-msim
